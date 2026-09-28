@@ -1,0 +1,6 @@
+{
+  "name": "BoardMastery - Class 10 CBSE 8-Week Tracker",
+  "description": "Modern, aesthetic, mobile-first Class 10 CBSE Board syllabus completion & revision tracker with an 8-week planner, PYQs, and competency-based practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
